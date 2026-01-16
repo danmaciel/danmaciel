@@ -47,7 +47,7 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 <p align="center">
   <img src="./github-metrics.svg" />
   <br>
-  <img src="./languages.svg" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmaciel&layout=compact&theme=dracula&hide=html,css,makefile)
 </p>
 
 ---
