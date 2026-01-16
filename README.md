@@ -44,9 +44,8 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
+ <img src="./github-metrics.svg" />
+
 ---
 
 ### 📫 Como me encontrar
