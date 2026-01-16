@@ -53,7 +53,7 @@ Com **9 anos de experiência** consolidada, sou um desenvolvedor apaixonado por 
 
 ### 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-da-silva-maciel-733b8a85/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-s-maciel/) 
 **Localização:** Marília/SP, Brasil 🇧🇷
 ---
 "O meu objetivo é construir software que não apenas funcione, mas que seja sustentável, seguro e inteligente."
