@@ -44,9 +44,11 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através de có
 
 ### 📈 Estatísticas do GitHub
 
- <img src="./github-metrics.svg" />
-
- [![Danilo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danmaciel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="./github-metrics.svg" />
+  <br>
+  <img src="./languages.svg" />
+</p>
 
 ---
 
