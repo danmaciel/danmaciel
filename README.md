@@ -1,8 +1,8 @@
 # Olá, eu sou o Danilo Maciel 👋
 
-### Software Developer | Software Architect & AI Specialist
+### Software Developer | Software Architect
 
-Com **9 anos de experiência** consolidada, sou um desenvolvedor apaixonado por resolver problemas complexos através de código limpo e arquiteturas escaláveis. Minha trajetória transita entre o ecossistema **.NET**, a alta performance do **Go** e a versatilidade do **Flutter**. Atualmente, dedico meus estudos à **Arquitetura de Software com IA**.
+Sou um desenvolvedor apaixonado por resolver problemas complexos através de código limpo e arquiteturas escaláveis. Minha trajetória transita entre o ecossistema **.NET**, **Spring Framework**, a alta performance do **Go** e a versatilidade do **Flutter**. Atualmente, dedico meus estudos à **Arquitetura de Software com IA**.
 
 ---
 
