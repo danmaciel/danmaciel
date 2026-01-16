@@ -44,10 +44,7 @@ Com **9 anos de experiência** consolidada, sou um desenvolvedor apaixonado por 
 
 ### 📈 Estatísticas do GitHub
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api?username=danmaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=danmaciel&layout=compact&theme=dracula&hide=html,css,makefile" />
-</div>
+![GitHub Metrics](./github-metrics.svg)
 ---
 
 ### 📫 Como me encontrar
