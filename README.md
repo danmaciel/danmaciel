@@ -1,4 +1,3 @@
-# Olá
 ### Software Developer | Software Architect
 
 Sou um desenvolvedor apaixonado por resolver problemas complexos através de código limpo e arquiteturas escaláveis. Minha trajetória transita entre o ecossistema **.NET**, **Spring Framework**, a alta performance do **Go** e a versatilidade do **Flutter**. Atualmente, dedico meus estudos à **Arquitetura de Software e Solucoes com IA**.
