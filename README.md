@@ -13,18 +13,20 @@ Meu foco de evolução profissional é **arquitetura de software e soluções**:
 - **Qualidade e operação:** testes automatizados, GitHub Actions, Docker, observabilidade e PostgreSQL.
 - **Experiência complementar:** Flutter, Android, .NET e AWS.
 
-### Projetos selecionados
+### Projetos em destaque
 
-| Projeto | O que demonstra |
+Os projetos abaixo combinam exemplos de implementação, qualidade e análise arquitetural. Eles são **demonstrações técnicas e estudos**, não sistemas cuja operação em produção foi comprovada.
+
+| Projeto | Evidências e decisões técnicas |
 | --- | --- |
-| [API de gerenciamento — Go](https://github.com/danmaciel/api) | API REST de clientes, produtos e pedidos; camadas, testes e diagramas C4. |
-| [Agendador de serviços — Java](https://github.com/danmaciel/agendador_app_monorepo) | Casos de uso, JWT, persistência com Flyway e testes automatizados no CI. |
-| [Sistema TODO com microsserviços](https://github.com/danmaciel/monorepo_sistema_todo_com_microservices) | Spring Cloud Gateway, Eureka, serviços separados, PostgreSQL e Redis. |
-| [Arquitetura Hexagonal — TypeScript](https://github.com/danmaciel/arquitetura_hexagonal) | Ports & adapters, inversão de dependências e testes com Jest. |
-| [Rate Limiter — Go](https://github.com/danmaciel/rate_limite_golang) | Controle de requisições por IP/token usando Redis, com build e testes no CI. |
-| [Arquitetura escalável na AWS](https://github.com/danmaciel/diagrama_arquitetura_escalavel_aws) | Proposta arquitetural com diagrama editável, alta disponibilidade e componentes de segurança. |
+| **[Microsserviços Spring Boot](https://github.com/danmaciel/monorepo_sistema_todo_com_microservices)** | Gateway, Eureka, autenticação JWT e persistência PostgreSQL; testes de integração reais com Docker Compose e tracing distribuído com OpenTelemetry/Zipkin. |
+| **[API REST — Go](https://github.com/danmaciel/api)** | API de clientes, produtos e pedidos; camadas, testes automatizados, diagramas C4 e baixa de estoque transacional. |
+| **[Agendador — Java / Spring Boot](https://github.com/danmaciel/agendador_app_monorepo)** | Casos de uso por funcionalidade, JWT, migrações Flyway, persistência e testes executados em CI. |
+| **[Arquitetura AWS — Estudo de caso](https://github.com/danmaciel/diagrama_arquitetura_escalavel_aws)** | Desenho editável, análise de alta disponibilidade, segurança, custos, recuperação e plano de validação, **sem alegar implantação**. |
+| **[Rate Limiter — Go / Redis](https://github.com/danmaciel/rate_limite_golang)** | Middleware de limitação por IP e tokens configurados; persistência Redis e testes. Demonstração com limitações documentadas de concorrência e identificação de clientes. |
+| **[Arquitetura Hexagonal — TypeScript](https://github.com/danmaciel/arquitetura_hexagonal)** | Exemplo de ports & adapters, isolamento dos casos de uso e testes unitários com Jest. |
 
-> Estes repositórios incluem projetos de estudo, demonstrações técnicas e protótipos. A documentação de cada um descreve seu escopo; exemplos arquiteturais não devem ser interpretados como sistemas implantados em produção.
+**Como avalio uma solução:** requisitos e restrições → decisões e trade-offs → implementação → testes e evidências → limites e possíveis evoluções.
 
 ### Formação e aprendizado contínuo
 
