@@ -1,57 +1,43 @@
-### Software Developer | Software Architect
+# Danilo Maciel
 
-Sou um desenvolvedor apaixonado por resolver problemas complexos através de código limpo e arquiteturas escaláveis. Minha trajetória transita entre o ecossistema **.NET**, **Spring Framework**, a alta performance do **Go** e a versatilidade do **Flutter**. Atualmente, dedico meus estudos à **Arquitetura de Software e Solucoes com IA**.
+**Engenheiro de Software Sênior | Backend, Sistemas Distribuídos e Arquitetura de Software**
 
----
+Desenvolvedor com cerca de 10 anos de experiência em construção e evolução de aplicações backend, mobile e web. Trabalho com **Java / Spring Boot, Go, Flutter** e integrações entre sistemas, com atenção a qualidade, segurança e manutenibilidade.
 
-### 🛠️ Tecnologias e Ferramentas
+Meu foco de evolução profissional é **arquitetura de software e soluções**: entender requisitos, avaliar trade-offs e projetar sistemas que possam ser operados e evoluídos com segurança.
 
-**Linguagens & Frameworks**
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### Competências
 
-**Infraestrutura & Database**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Backend:** Java, Spring Boot, Go, APIs REST, autenticação e integração entre serviços.
+- **Arquitetura:** arquitetura em camadas, Clean/Hexagonal Architecture, microsserviços, mensageria e modelagem C4.
+- **Qualidade e operação:** testes automatizados, GitHub Actions, Docker, observabilidade e PostgreSQL.
+- **Experiência complementar:** Flutter, Android, .NET e AWS.
 
----
+### Projetos selecionados
 
-### 🎓 Evolução Profissional
+| Projeto | O que demonstra |
+| --- | --- |
+| [API de gerenciamento — Go](https://github.com/danmaciel/api) | API REST de clientes, produtos e pedidos; camadas, testes e diagramas C4. |
+| [Agendador de serviços — Java](https://github.com/danmaciel/agendador_app_monorepo) | Casos de uso, JWT, persistência com Flyway e testes automatizados no CI. |
+| [Sistema TODO com microsserviços](https://github.com/danmaciel/monorepo_sistema_todo_com_microservices) | Spring Cloud Gateway, Eureka, serviços separados, PostgreSQL e Redis. |
+| [Arquitetura Hexagonal — TypeScript](https://github.com/danmaciel/arquitetura_hexagonal) | Ports & adapters, inversão de dependências e testes com Jest. |
+| [Rate Limiter — Go](https://github.com/danmaciel/rate_limite_golang) | Controle de requisições por IP/token usando Redis, com build e testes no CI. |
+| [Arquitetura escalável na AWS](https://github.com/danmaciel/diagrama_arquitetura_escalavel_aws) | Proposta arquitetural com diagrama editável, alta disponibilidade e componentes de segurança. |
 
-* **Pós-graduação em Arquitetura de Software e Soluções com IA** (Faculdade XPE)
-* **Especialista Go Expert** (Fbr - Faculdade de Brasília)
-* **Pós-graduação em Cyber Security** (Univem)
-* **Bacharel em Ciência da Computação**
+> Estes repositórios incluem projetos de estudo, demonstrações técnicas e protótipos. A documentação de cada um descreve seu escopo; exemplos arquiteturais não devem ser interpretados como sistemas implantados em produção.
 
----
+### Formação e aprendizado contínuo
 
-### 🚀 Projetos em Destaque
+- Bacharelado em Ciência da Computação.
+- Especialização em Go (GoExpert).
+- Estudos em Arquitetura de Sistemas e Soluções com IA.
 
-* **[Go Exchange Rate API](https://github.com/danmaciel/fullcycle-desafio-client-server-api):** API em Go explorando Context, Timeout e persistência SQLite.
-* **[Multithreading CEP](https://github.com/danmaciel/desafio-multithreading):** Desafio de concorrência em Go utilizando APIs simultâneas.
-* **[Sales System](https://github.com/danmaciel/SalesApi):** Backend robusto em C# focado em regras de negócio e escalabilidade.
+### Contato
 
----
+[LinkedIn](https://www.linkedin.com/in/danilo-s-maciel/) · [GitHub](https://github.com/danmaciel)
 
-### 📈 Estatísticas do GitHub
+### Atividade no GitHub
 
-<p align="center">
-  <img src="./github-metrics.svg" />
-  <br>
- <img src="./languages.svg" />
-</p>
+![GitHub metrics](./github-metrics.svg)
 
----
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-s-maciel/) 
-**Localização:** Marília/SP, Brasil 🇧🇷
----
-"O meu objetivo é construir software que não apenas funcione, mas que seja sustentável, seguro e inteligente."
+![Linguagens](./languages.svg)
