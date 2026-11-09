@@ -26,6 +26,8 @@ Os projetos abaixo combinam exemplos de implementação, qualidade e análise ar
 | **[Rate Limiter — Go / Redis](https://github.com/danmaciel/rate_limite_golang)** | Middleware de limitação por IP e tokens configurados; persistência Redis e testes. Demonstração com limitações documentadas de concorrência e identificação de clientes. |
 | **[Arquitetura Hexagonal — TypeScript](https://github.com/danmaciel/arquitetura_hexagonal)** | Exemplo de ports & adapters, isolamento dos casos de uso e testes unitários com Jest. |
 
+**Outros estudos com código e testes:** [Clean Architecture em Go](https://github.com/danmaciel/ca_golang) — casos de uso acessíveis por REST, GraphQL e gRPC, validação de pedidos, eventos locais e testes de concorrência. O RabbitMQ está disponível no Compose, mas **não faz parte do fluxo executado**. [Temperatura por CEP e OpenTelemetry](https://github.com/danmaciel/temperature_by_cep_with_telemetry) — comunicação entre dois serviços Go, propagação de traces, validação de respostas externas e teste de proteção da chave da WeatherAPI nos spans.
+
 **Como avalio uma solução:** requisitos e restrições → decisões e trade-offs → implementação → testes e evidências → limites e possíveis evoluções.
 
 ### Formação e aprendizado contínuo
