@@ -40,3 +40,8 @@ Os projetos abaixo combinam exemplos de implementação, qualidade e análise ar
 
 [LinkedIn](https://www.linkedin.com/in/danilo-s-maciel/) · [GitHub](https://github.com/danmaciel)
 
+### Linguagens dos projetos em destaque
+
+![Distribuição de linguagens dos seis projetos em destaque](./assets/portfolio-languages.svg)
+
+<sub>Distribuição aproximada dos bytes de código identificados pelo GitHub Linguist nos seis projetos públicos da seção acima. Não representa experiência profissional ou nível de domínio. [Critérios e atualização semanal](./scripts/generate_portfolio_languages.py).</sub>
