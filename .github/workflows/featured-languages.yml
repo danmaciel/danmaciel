@@ -1,0 +1,47 @@
+name: Update featured languages chart
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_portfolio_languages.py"
+      - ".github/workflows/featured-languages.yml"
+      - "tests/test_portfolio_languages.py"
+  schedule:
+    - cron: "17 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: featured-languages-chart
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate SVG generator
+        run: python -m unittest discover -s tests -p 'test_*.py'
+      - name: Generate chart from GitHub language statistics
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/generate_portfolio_languages.py
+      - name: Commit updated chart if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/portfolio-languages.svg
+          if git diff --cached --quiet; then
+            echo "No chart changes"
+            exit 0
+          fi
+          git commit -m "chore: refresh featured languages chart [skip ci]"
+          git push

@@ -1,0 +1,25 @@
+name: Verify featured languages chart generator
+
+on:
+  pull_request:
+    paths:
+      - "scripts/generate_portfolio_languages.py"
+      - "tests/test_portfolio_languages.py"
+      - ".github/workflows/featured-languages.yml"
+      - ".github/workflows/verify-featured-languages.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test SVG generation without network
+        run: python -m unittest discover -s tests -p 'test_*.py'
