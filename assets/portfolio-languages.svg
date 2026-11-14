@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="365" viewBox="0 0 680 365" role="img" aria-labelledby="title desc">
+<title id="title">Linguagens dos seis projetos em destaque</title>
+<desc id="desc">Proporção aproximada dos bytes de linguagens identificados pelo GitHub Linguist nos seis repositórios públicos selecionados; não representa experiência profissional.</desc>
+<rect width="680" height="365" rx="14" fill="#0D1117"/>
+<text x="24" y="33" fill="#F0F6FC" font-size="18" font-family="Arial, sans-serif" font-weight="bold">Linguagens dos projetos em destaque</text>
+<text x="24" y="53" fill="#8B949E" font-size="12" font-family="Arial, sans-serif">GitHub Linguist · 6 repositórios públicos · 2026-11-14</text>
+<rect x="24" y="72" width="632" height="14" rx="7" fill="#30363D"/>
+<rect x="24.00" y="72" width="376.27" height="14" fill="#58A6FF"/>
+<rect x="400.27" y="72" width="164.23" height="14" fill="#3FB950"/>
+<rect x="564.50" y="72" width="31.73" height="14" fill="#D2A8FF"/>
+<rect x="596.23" y="72" width="31.38" height="14" fill="#F2CC60"/>
+<rect x="627.62" y="72" width="16.90" height="14" fill="#FF7B72"/>
+<rect x="644.51" y="72" width="8.18" height="14" fill="#79C0FF"/>
+<rect x="652.69" y="72" width="3.31" height="14" fill="#8B949E"/>
+<circle cx="32" cy="113" r="5" fill="#58A6FF"/>
+<text x="48" y="117" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">Java</text>
+<text x="656" y="117" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">59.5%</text>
+<circle cx="32" cy="142" r="5" fill="#3FB950"/>
+<text x="48" y="146" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">Go</text>
+<text x="656" y="146" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">26.0%</text>
+<circle cx="32" cy="171" r="5" fill="#D2A8FF"/>
+<text x="48" y="175" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">Python</text>
+<text x="656" y="175" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">5.0%</text>
+<circle cx="32" cy="200" r="5" fill="#F2CC60"/>
+<text x="48" y="204" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">JavaScript</text>
+<text x="656" y="204" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">5.0%</text>
+<circle cx="32" cy="229" r="5" fill="#FF7B72"/>
+<text x="48" y="233" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">TypeScript</text>
+<text x="656" y="233" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">2.7%</text>
+<circle cx="32" cy="258" r="5" fill="#79C0FF"/>
+<text x="48" y="262" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">Shell</text>
+<text x="656" y="262" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">1.3%</text>
+<circle cx="32" cy="287" r="5" fill="#8B949E"/>
+<text x="48" y="291" fill="#E6EDF3" font-size="13" font-family="Arial, sans-serif">Outras</text>
+<text x="656" y="291" text-anchor="end" fill="#C9D1D9" font-size="13" font-family="Arial, sans-serif">0.5%</text>
+<text x="24" y="343" fill="#8B949E" font-size="11" font-family="Arial, sans-serif">Distribuição de código, não nível de domínio · Fonte: GitHub API /languages</text>
+</svg>
