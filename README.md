@@ -40,8 +40,3 @@ Os projetos abaixo combinam exemplos de implementação, qualidade e análise ar
 
 [LinkedIn](https://www.linkedin.com/in/danilo-s-maciel/) · [GitHub](https://github.com/danmaciel)
 
-### Atividade no GitHub
-
-![GitHub metrics](./github-metrics.svg)
-
-![Linguagens](./languages.svg)
